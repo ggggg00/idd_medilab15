@@ -2,6 +2,8 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    void listDevices();
+    
     // 画面基本設定
     ofSetFrameRate(60);
     ofBackground(63);
