@@ -12,6 +12,8 @@ void ofApp::setup(){
     w = 200;
     h = 200;
     
+//    ofPlanePrimitive(400, 400, 20, 20);
+    
     createMesh();
 }
 
