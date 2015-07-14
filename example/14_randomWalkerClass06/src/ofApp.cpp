@@ -65,10 +65,10 @@ void ofApp::mousePressed(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::mouseReleased(int x, int y, int button){
-    for (int i = 0; i < walkerNum; i++) {
-        walker[i].position.x = x;
-        walker[i].position.y = y;
-    }
+//    for (int i = 0; i < walkerNum; i++) {
+//        walker[i].position.x = x;
+//        walker[i].position.y = y;
+//    }
 }
 
 //--------------------------------------------------------------
